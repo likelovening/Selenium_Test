@@ -5,11 +5,3 @@
 # if __name__=="__main__":
 #     testui=unittest.TestSuite()
 #     testui.main(Test_KX_jishou('KX_js'))
-
-
-
-
-
-
-
-
